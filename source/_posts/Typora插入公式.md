@@ -1,7 +1,6 @@
 ---
 title: Typora插入公式
-date: 2021-02-02
-top: 3
+date: 2021-02-02 14:46:31
 tags:
 - Typora
 ---

@@ -1,7 +1,6 @@
 ---
 title: Typora使用
-date: 2021-02-02
-top: 2
+date: 2021-02-02 14:45:32
 tags:
 - Typora
 ---
