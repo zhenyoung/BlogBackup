@@ -1,8 +1,9 @@
 ---
 title: 码制的一些问题
 date: 2021-02-02 14:57:31
+declare: true
 tag: 
-- 疑惑
+- doubt
 ---
 
 

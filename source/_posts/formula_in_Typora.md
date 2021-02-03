@@ -1,8 +1,10 @@
 ---
 title: Typora插入公式
 date: 2021-02-02 14:46:31
+declare: true
 tags:
 - Typora
+- LaTex
 ---
 
 
@@ -11,7 +13,7 @@ Typora中插入公式是基于LaTex排班系统的。关于LaTex，因为并不�
 
 对于生成复杂表格和数学公式，这一点表现得尤为突出。许多的公式编辑器也陆续支持LaTex，用途十分广泛。
 
-关于LaTex的具体介绍，[详见百科](https://baike.baidu.com/item/LaTeX/1212106?fr=aladdin)。下面开始介绍常用的公式排版
+关于LaTex的具体介绍，[详见百科](https://baike.baidu.com/item/LaTeX/1212106?fr=aladdin)。以下介绍常用的公式排版，关于书籍以及论文的排版此处不讨论。
 
 <!--more-->
 

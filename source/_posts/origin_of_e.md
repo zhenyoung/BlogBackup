@@ -1,8 +1,9 @@
 ---
 title: 自然底数e的由来
 date: 2021-02-02 14:56:12
+declare: true
 tags: 
-- 疑惑
+- doubt
 ---
 
 
