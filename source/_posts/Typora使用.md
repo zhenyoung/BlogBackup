@@ -209,7 +209,9 @@ public class HelloWorld{
 
 # 10.插入公式
 
-Typora中插入公式是基于LaTex排版系统的，下面仅作了解，具体的一些常用公式的排版我会写一篇博客专门说明
+Typora中插入公式是基于LaTex排版系统的，下面仅作了解，具体的一些常用公式的排版见[Typora插入公式](https://zhenyoung.github.io/2021/02/02/Typora%E6%8F%92%E5%85%A5%E5%85%AC%E5%BC%8F/)
+
+
 
 ## 10.1插入行间公式
 
